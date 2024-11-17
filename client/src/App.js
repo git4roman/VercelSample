@@ -40,7 +40,7 @@ function App() {
   // Fetch data when the component mounts
   useEffect(() => {
     fetchData();
-  }, [users]);
+  }, []);
 
   return (
     <>
