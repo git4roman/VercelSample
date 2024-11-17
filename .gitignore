@@ -10,8 +10,8 @@ yarn-error.log*
 .env
 
 # Build output
-/client/build/
-/server/build/
+# /client/build/
+# /server/build/
 
 # Vercel configuration (if any specific build files are created)
 .vercel/
